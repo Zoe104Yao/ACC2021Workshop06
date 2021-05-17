@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for  ACC2021 	</title>
-	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://zoe104yao.github.io/ACC2021Workshop06/</link>
+	Comments on: Poster Session	</title>
+	<atom:link href="http://localhost/2021/05/17/poster-session/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zoe104yao.github.io/ACC2021Workshop06/2021/05/17/poster-session/</link>
 	<description>Workshop 06</description>
 	<lastBuildDate>Mon, 17 May 2021 14:17:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/author/zoe104yao/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zoe104yao.github.io/ACC2021Workshop06/</link>
 	<description>Workshop 06</description>
-	<lastBuildDate>Tue, 20 Apr 2021 21:09:41 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 May 2021 14:17:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
 	<url>https://zoe104yao.github.io/ACC2021Workshop06/wp-content/uploads/2021/04/cropped-logo-e1618937434492-32x32.png</url>
@@ -28,21 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Workshop of ACC 2021</title>
-		<link>https://zoe104yao.github.io/ACC2021Workshop06/2021/04/20/hello-world/</link>
-					<comments>https://zoe104yao.github.io/ACC2021Workshop06/2021/04/20/hello-world/#respond</comments>
+		<title>Poster Session</title>
+		<link>https://zoe104yao.github.io/ACC2021Workshop06/2021/05/17/poster-session/</link>
+					<comments>https://zoe104yao.github.io/ACC2021Workshop06/2021/05/17/poster-session/#respond</comments>
 		
 		<dc:creator><![CDATA[Zoe104Yao]]></dc:creator>
-		<pubDate>Tue, 20 Apr 2021 16:25:56 +0000</pubDate>
+		<pubDate>Mon, 17 May 2021 14:17:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://zoe104yao.github.io/ACC2021Workshop06/?p=1</guid>
+		<guid isPermaLink="false">https://zoe104yao.github.io/ACC2021Workshop06/?p=240</guid>
 
-					<description><![CDATA[The workshop on Recent Advancement of Human Autonomy Interaction and Integration will be held virtually from 8:30am to 5:30pm on May 24th, 2021. There will be 7 talks and a poster session during the workshop. ]]></description>
+					<description><![CDATA[The poster session will be held&#160;virtually on “SpatialChat”&#160;online&#160;platform after all the talks.&#160;If you have registered this workshop and want to present in the poster session, please send your poster to nyao6@gatech.edu by May 21st.&#160; For the poster design, please feel free to choose any template/design available on the internet or provided by MS PowerPoint or &#8230; <p class="link-more"><a href="https://zoe104yao.github.io/ACC2021Workshop06/2021/05/17/poster-session/" class="more-link">Continue reading<span class="screen-reader-text"> "Poster Session"</span></a></p>]]></description>
 										<content:encoded><![CDATA[
-<p>The workshop on Recent Advancement of Human Autonomy Interaction and Integration will be held virtually from 8:30am to 5:30pm on May 24th, 2021. There will be 7 talks and a poster session during the workshop. </p>
+<p>The poster session will be held&nbsp;virtually on “SpatialChat”&nbsp;online&nbsp;platform after all the talks.&nbsp;If you have registered this workshop and want to present in the poster session, please send your poster to <a href="mailto:nyao6@gatech.edu">nyao6@gatech.edu</a> by May 21<sup>st</sup>.&nbsp;</p>
+
+
+
+<p>For the poster design, please feel free to choose any template/design available on the internet or provided by MS PowerPoint or even create your own poster design. Or you can use a poster template file, ‘posterTmp.ppt,’ in <a href="https://drive.google.com/file/d/1lHsKM7_P_fIf6rgexNbVW6LCNjGohJwg/view?usp=sharing">https://drive.google.com/file/d/1lHsKM7_P_fIf6rgexNbVW6LCNjGohJwg/view?usp=sharing</a></p>
+
+
+
+<p>Consequently,&nbsp;participants&nbsp;must&nbsp;adhere to the&nbsp;poster&nbsp;font and&nbsp;dimension specification listed below to ensure the legibility of the posters on the Spatial Chat platform.&nbsp;&nbsp;Smaller font sizes that sufficed in physical poster presentation settings will&nbsp;appear as too small on&nbsp;Spatial Chat.&nbsp;</p>
+
+
+
+<p><strong>Poster design specifications:&nbsp;</strong></p>
+
+
+
+<ul><li>Poster size: A0 (Landscape) 118.9 cm (width) by 84.1 cm (height).&nbsp;</li><li>Title font-size: 100.&nbsp;</li><li>Section headings font-size:&nbsp;70.&nbsp;</li><li>Paragraph text font-size: 45.&nbsp;</li><li>Images and figures are preferred to be in vector graphics format to avoid&nbsp;pixilation.&nbsp;</li><li>Final poster file must in an image format,&nbsp;e.g.,&nbsp;JPG or SVG.&nbsp;However, export your poster as&nbsp;.SVG&nbsp;to&nbsp;avoid&nbsp;pixilation.&nbsp;</li></ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zoe104yao.github.io/ACC2021Workshop06/2021/04/20/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://zoe104yao.github.io/ACC2021Workshop06/2021/05/17/poster-session/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
